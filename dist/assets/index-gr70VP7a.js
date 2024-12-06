@@ -1,0 +1,1 @@
+import{_ as t,j as a,k as o,b as n,o as r,J as c}from"./index-DizytlvP.js";const _={},d={class:"box"},i={class:"content"};function l(m,e){const s=c("router-view");return r(),a("main",d,[e[0]||(e[0]=o("header",{class:"header"},"头部-注册",-1)),o("div",i,[n(s)])])}const f=t(_,[["render",l],["__scopeId","data-v-20ae8570"]]);export{f as default};
