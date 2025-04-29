@@ -8,5 +8,5 @@
 App所有界面样式、功能逻辑流程，全由本人自己设计。
 
 
-技术栈： vue3 + ts + vite
+技术栈： vue3 + typeScript + vite
 组件库： vant
