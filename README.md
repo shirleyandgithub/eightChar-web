@@ -9,9 +9,10 @@
 
 组件库： vant
 
+![描述文字](https://example.com/your-image.png?width=300)
 
 
-![1](https://github.com/user-attachments/assets/2a3e8284-5d97-4885-906c-b3d6d9141e50)
+![1](https://github.com/user-attachments/assets/2a3e8284-5d97-4885-906c-b3d6d9141e50?width=300)
 
 ![2](https://github.com/user-attachments/assets/d05e019a-08bb-40bf-8ac9-a632e41b52c6)
 
