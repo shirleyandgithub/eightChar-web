@@ -11,5 +11,5 @@
 
 
 
-![1 (2)](https://github.com/user-attachments/assets/f42bb0b6-4280-425c-bb1e-76d02f362df0)
+<img src="[https://raw.githubusercontent.com/用户名/仓库名/main/docs/images/demo.png](https://github.com/shirleyandgithub/eightChar-web/main/src/assets/proimg/9.jpg)" width="200" alt="示例">
 
