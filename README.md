@@ -11,5 +11,5 @@
 
 
 
-<img src="[https://raw.githubusercontent.com/用户名/仓库名/main/docs/images/demo.png](https://github.com/shirleyandgithub/eightChar-web/main/src/assets/proimg/9.jpg)" width="200" alt="示例">
+<img src="https://github.com/shirleyandgithub/eightChar-web/main/src/assets/proimg/9.jpg" width="200" alt="示例">
 
