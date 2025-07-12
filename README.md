@@ -14,25 +14,25 @@
 
 <img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme1.jpg" width="300" alt="首页"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme2.jpg" width="200" alt="首页"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme2.jpg" width="300" alt="首页"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme3.jpg" width="200" alt="档案列表"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme3.jpg" width="300" alt="档案列表"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme4.jpg" width="200" alt="新增档案"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme4.jpg" width="300" alt="新增档案"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme5.jpg" width="200" alt="新增档案"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme5.jpg" width="300" alt="新增档案"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme6.jpg" width="200" alt="新增档案"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme6.jpg" width="300" alt="新增档案"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme7.jpg" width="200" alt="新增档案"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme7.jpg" width="300" alt="新增档案"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme8.jpg" width="200" alt="新增档案"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme8.jpg" width="300" alt="新增档案"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme9.jpg" width="200" alt="新增档案"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme9.jpg" width="300" alt="新增档案"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme10.jpg" width="200" alt="新增档案"><br><br><br><br><br>
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme10.jpg" width="300" alt="新增档案"><br><br><br><br><br>
 
-<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme11.jpg" width="200" alt="新增档案">
+<img src="https://github.com/shirleyandgithub/eightChar-web/blob/main/src/assets/proimg/readme11.jpg" width="300" alt="新增档案">
 
 
 
