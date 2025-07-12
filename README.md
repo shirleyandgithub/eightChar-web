@@ -11,8 +11,8 @@
 
 
 
+![1](https://github.com/user-attachments/assets/7b4c7588-b79a-4b58-b66b-8cc04e399ca1)
 
-![1](https://imgur.com/a/EHtIf5x?=100)
 
 
 ![1](https://github.com/user-attachments/assets/2a3e8284-5d97-4885-906c-b3d6d9141e50?width=100)
