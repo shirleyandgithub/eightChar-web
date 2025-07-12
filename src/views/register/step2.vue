@@ -45,13 +45,22 @@ function sendCodeClick() {
     })
 
 
-    // 当前已经有被点击，被点击了之后下次点击就不做处理了
+    // 当前已经有被点击，被点击了之后下次点击就不做处理了  具体看ai
     // if (timeout != null) {
     //     return
     // }
 
     // 开启延迟
     // timeout = setTimeout(() => {
+    //     // 发送验证码的逻辑
+    //     dosendmsgcode({ tel: localStorage.getItem('tel') || '' }).then(res => {
+    //         if (res.data) {
+    //             showToast('验证码发送成功:' + res.data);
+    //         }
+    //     });
+
+    //     // 启动倒计时
+    //     startCountdown();
     // }, 1000)
 
     // console.log('验证码发送了');
