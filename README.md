@@ -12,4 +12,3 @@
 
 
 
-![2](https://github.com/user-attachments/assets/3576a4f7-2f14-47de-b0be-5f7b35030709)
